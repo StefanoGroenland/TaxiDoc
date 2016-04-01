@@ -9,4 +9,5 @@ De documentatie bevat alle :
  
 
 API Generator : ApiGen 4.1
+PHP Framework : Laravel 5.1
 Authors       : Stefano Groenland & Richard Perdaan
