@@ -8,3 +8,5 @@ De documentatie bevat alle :
 - In het speciaal de ApiController
  
 
+API Generator : ApiGen 4.1
+Authors       : Stefano Groenland & Richard Perdaan
